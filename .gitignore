@@ -1,2 +1,1 @@
-# Ignore all `.json` files
-*.env
+.env
